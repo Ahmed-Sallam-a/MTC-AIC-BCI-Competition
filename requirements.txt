@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+
+# PyTorch
+torch>=1.13.0
+torchvision
+
+# EEG / Signal Processing
+mne
+
+# Utility
+tqdm
+seaborn
+
+# Optional (if using Jupyter notebooks for development)
+ipykernel
+notebook
+
+# Kaggle / Filesystem
+kaggle
