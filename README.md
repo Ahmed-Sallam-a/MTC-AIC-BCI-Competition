@@ -40,7 +40,7 @@ Our submission targets both **MI** and **SSVEP** EEG classification tasks using 
 * **Backbone**: EEGNet-style CNN with Squeeze-and-Excitation blocks
 * **Enhancement**: Lightweight Transformer encoder for temporal attention
 * **Dropout**: 0.5 to prevent overfitting
-* **Accuracy**: \~64% Train / \~61% Validation
+* **Accuracy**: \~67% Train / \~67% Validation
 
 #### SSVEP
 
